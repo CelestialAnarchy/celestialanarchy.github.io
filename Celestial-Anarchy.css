@@ -9,7 +9,8 @@
 .u-section-1 .u-tabs-1 {
   min-height: 453px;
   width: 1140px;
-  margin: 60px 0;
+  height: auto;
+  margin: 60px auto;
 }
 
 .u-section-1 .u-tab-list-1 {
