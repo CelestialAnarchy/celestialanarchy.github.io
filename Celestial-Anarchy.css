@@ -1349,13 +1349,20 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 617px;
+  min-height: 559px;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 700;
+  font-family: "Roboto Mono";
+  font-size: 1.5rem;
+  margin: 28px auto 0;
 }
 
 .u-section-3 .u-gallery-1 {
   height: 409px;
   width: 785px;
-  margin: 60px auto;
+  margin: 28px auto 56px;
 }
 
 .u-section-3 .u-carousel-indicators-1 {
@@ -1435,15 +1442,24 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    margin-top: 66px;
+  }
+
   .u-section-3 .u-gallery-1 {
     width: 540px;
-    margin-top: 125px;
+    margin-top: 34px;
   }
 }
 
 @media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    margin-top: 317px;
+  }
+
   .u-section-3 .u-gallery-1 {
-    margin-top: 121px;
+    margin-top: 9px;
+    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
     width: auto;
