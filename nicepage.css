@@ -37936,7 +37936,6 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-repeater-1 {
-  grid-auto-columns: calc(25% - 1.5px);
   grid-template-columns: calc(25% - 1.5px) calc(25% - 1.5px) calc(25% - 1.5px) calc(25% - 1.5px);
   grid-gap: 2px 2px;
 }
@@ -38027,10 +38026,6 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -49px;
     margin-bottom: 10px;
   }
-
-  .u-footer .u-repeater-1 {
-    grid-template-columns: repeat(4, calc(25% - 1.5px));
-  }
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
@@ -38056,7 +38051,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-repeater-1 {
-    grid-auto-columns: 25%;
     grid-template-columns: 25% 25% 25% 25%;
     grid-gap: 0px 0px;
     min-height: 52px;
@@ -38108,7 +38102,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-repeater-1 {
     min-height: 50px;
-    grid-template-columns: repeat(2, 50%);
+    grid-template-columns: 50% 50%;
   }
 
   .u-footer .u-container-layout-1 {
