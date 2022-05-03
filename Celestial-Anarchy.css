@@ -299,6 +299,8 @@
 
 .u-section-1 .u-text-4 {
   font-family: "Roboto Mono";
+  font-size: 2.25rem;
+  font-weight: normal;
   margin: 0 auto;
 }
 
@@ -311,6 +313,7 @@
   font-family: "Roboto Mono";
   width: auto;
   font-size: 1.5rem;
+  font-style: normal;
   margin: -173px auto 0;
 }
 
@@ -499,11 +502,6 @@
 @media (max-width: 1399px) {
   .u-section-1 .u-tabs-1 {
     height: auto;
-  }
-
-  .u-section-1 .u-text-4 {
-    font-size: 2.25rem;
-    font-weight: normal;
   }
 
   .u-section-1 .u-text-6 {
@@ -1071,12 +1069,16 @@
 
 .u-section-2 .u-text-2 {
   font-family: "Roboto Mono";
+  font-size: 2.25rem;
+  font-weight: normal;
   margin: 0 -30px;
 }
 
 .u-section-2 .u-text-3 {
-  width: 340px;
-  margin: 68px 0 0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  margin: 0 -30px;
 }
 
 .u-section-2 .u-text-4 {
@@ -1137,15 +1139,8 @@
 }
 
 @media (max-width: 1399px) {
-  .u-section-2 .u-text-2 {
-    font-size: 2.25rem;
-    font-weight: normal;
-  }
-
   .u-section-2 .u-text-3 {
-    font-family: "Open Sans", sans-serif;
-    font-size: 1rem;
-    font-weight: normal;
+    width: 340px;
   }
 }
 
@@ -1163,6 +1158,11 @@
     width: auto;
     margin-right: 0;
     margin-left: 44px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-2 .u-text-4 {
