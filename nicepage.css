@@ -37809,13 +37809,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 80px;
+  min-height: 72px;
 }
 
 .u-header .u-image-1 {
   width: 55px;
   height: 55px;
-  margin: 15px auto 0 -27px;
+  margin: 8px auto 0 -27px;
 }
 
 .u-header .u-logo-image-1 {
@@ -37826,19 +37826,18 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-text-1 {
   font-family: "Roboto Mono";
   font-size: 2.25rem;
-  margin: -47px auto 0 39px;
+  margin: -51px auto 0 39px;
 }
 
 .u-header .u-list-1 {
   width: 327px;
-  margin: -47px 0 14px auto;
+  margin: -46px 0 11px auto;
 }
 
 .u-header .u-repeater-1 {
   grid-template-columns: calc(33.3333% - 1.33333px) calc(33.3333% - 1.33333px) calc(33.3333% - 1.33333px);
   grid-gap: 2px 2px;
   min-height: 52px;
-  grid-auto-columns: calc(33.3333% - 1.33333px);
 }
 
 .u-header .u-container-layout-1 {
@@ -37890,20 +37889,18 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
+    margin-top: -51px;
     margin-left: 39px;
   }
 
   .u-header .u-list-1 {
-    margin-top: -47px;
-  }
-
-  .u-header .u-repeater-1 {
-    grid-template-columns: repeat(3, calc(33.333333333333336% - 1.33333px));
-    grid-auto-columns: calc(33.333333333333336% - 1.33333px);
+    margin-top: -46px;
   }
 
   .u-header .u-btn-1 {
     transition-duration: 0.5s;
+    font-weight: normal;
+    font-style: normal;
   }
 }
 
@@ -37914,16 +37911,13 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-list-1 {
     width: 491px;
-    margin-top: 23px;
     margin-right: auto;
-    margin-bottom: 23px;
   }
 
   .u-header .u-repeater-1 {
     grid-template-columns: 33.3333% 33.3333% 33.3333%;
     grid-gap: 0px 0px;
     min-height: 48px;
-    grid-auto-columns: 33.3333%;
   }
 
   .u-header .u-container-layout-1 {
@@ -37960,7 +37954,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-list-1 {
     width: 491px;
-    margin-bottom: 24px;
   }
 
   .u-header .u-repeater-1 {
@@ -37977,8 +37970,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-list-1 {
-    margin-top: 24px;
-    margin-bottom: 24px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -38082,7 +38073,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-text-1 {
   font-size: 1rem;
   font-family: "Roboto Mono";
-  margin: -52px 0 13px 1073px;
+  margin: -50px 0 14px 1073px;
 }
 @media (max-width: 1399px) {
   .u-footer .u-list-1 {
