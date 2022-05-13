@@ -37851,6 +37851,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-btn-1 {
   font-family: "Roboto Mono";
+  font-weight: normal;
+  font-style: normal;
   padding: 0;
 }
 
@@ -37899,8 +37901,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-btn-1 {
     transition-duration: 0.5s;
-    font-weight: normal;
-    font-style: normal;
   }
 }
 
@@ -37911,6 +37911,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-list-1 {
     width: 491px;
+    margin-top: 20px;
     margin-right: auto;
   }
 

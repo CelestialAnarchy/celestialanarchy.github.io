@@ -906,6 +906,10 @@
   background-image: none;
 }
 
+.u-section-2 .u-btn-2 {
+  background-image: none;
+}
+
 .u-section-2 .u-tab-pane-2 {
   background-image: none;
 }
@@ -1224,6 +1228,10 @@
   }
 
   .u-section-2 .u-btn-1 {
+    padding: 0;
+  }
+
+  .u-section-2 .u-btn-2 {
     padding: 0;
   }
 
