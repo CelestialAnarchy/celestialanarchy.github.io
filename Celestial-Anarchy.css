@@ -865,8 +865,7 @@
 
 .u-section-2 .u-text-7 {
   font-family: "Roboto Mono";
-  width: auto;
-  margin: 9px 281px 0 0;
+  margin: 0 -30px;
 }
 
 @media (max-width: 1399px) {
@@ -874,6 +873,10 @@
     font-size: 1rem;
     font-weight: normal;
     font-family: "Open Sans", sans-serif;
+  }
+
+  .u-section-2 .u-text-7 {
+    width: auto;
   }
 }
 
@@ -905,6 +908,11 @@
   .u-section-2 .u-text-6 {
     margin-right: 559px;
     margin-left: 202px;
+  }
+
+  .u-section-2 .u-text-7 {
+    margin-right: 281px;
+    margin-left: 0;
   }
 }
 
